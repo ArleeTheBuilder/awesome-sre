@@ -305,7 +305,7 @@ Contributions are always welcome!
 
 ## On-Call
 * [Being an On-Call Engineer: A Google SRE Perspective](http://research.google.com/pubs/pub44813.html)
-* [Inside Atlassian: how our site reliability engineers do incident management](https://www.atlassian.com/blog/it-teams/inside-atlassian-site-reliability-engineers-incident-management)
+* [Inside Atlassian: how our site reliability engineers do incident management](https://www.atlassian.com/blog/it-teams/inside-atlassian-site-reliability-engineers-incident-management) - Ongoing Read
 * [Inside Atlassian: how IT & SRE use ChatOps to run incident management](https://www.atlassian.com/blog/2016/02/inside-atlassian-sre-use-chatops-run-incident-management)
 * [Incident Response at Heroku](https://blog.heroku.com/archives/2014/5/9/incident-response-at-heroku)
 * [Who's On Call?](http://www.susanjfowler.com/blog/2016/9/6/whos-on-call)
