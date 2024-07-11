@@ -268,7 +268,7 @@ Contributions are always welcome!
 * [Using Fault Injection Testing to Improve DoorDash Reliability](https://doordash.engineering/2022/04/25/using-fault-injection-testing-to-improve-doordash-reliability/)
 
 ## Monitoring & Observability & Alerting
-* [A Working Theory-of-Monitoring](https://www.usenix.org/conference/lisa13/working-theory-monitoring)
+* [A Working Theory-of-Monitoring](https://www.usenix.org/conference/lisa13/working-theory-monitoring) (Ongoing)
 * [The Evolution of Monitoring Systems at Google - Tony Rippy](https://vimeo.com/131484321)
 * [Monitoring without Infrastructure @ Airbnb](https://www.usenix.org/conference/srecon15/program/presentation/serebryany)
 * [Monitoring distributed systems](https://www.oreilly.com/ideas/monitoring-distributed-systems)
@@ -305,7 +305,7 @@ Contributions are always welcome!
 
 ## On-Call
 * [Being an On-Call Engineer: A Google SRE Perspective](http://research.google.com/pubs/pub44813.html)
-* [Inside Atlassian: how our site reliability engineers do incident management](https://www.atlassian.com/blog/it-teams/inside-atlassian-site-reliability-engineers-incident-management) - Ongoing Read
+* [Inside Atlassian: how our site reliability engineers do incident management](https://www.atlassian.com/blog/it-teams/inside-atlassian-site-reliability-engineers-incident-management) - (Done)
 * [Inside Atlassian: how IT & SRE use ChatOps to run incident management](https://www.atlassian.com/blog/2016/02/inside-atlassian-sre-use-chatops-run-incident-management)
 * [Incident Response at Heroku](https://blog.heroku.com/archives/2014/5/9/incident-response-at-heroku)
 * [Who's On Call?](http://www.susanjfowler.com/blog/2016/9/6/whos-on-call)
